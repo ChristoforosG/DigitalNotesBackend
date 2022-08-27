@@ -1,0 +1,6 @@
+flask
+pymongo
+pyjwt
+datetime
+uuid
+flask-jwt-extended
